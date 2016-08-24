@@ -1,6 +1,6 @@
 {
   "name": "tfk-seneca-mesh-minelev-stats-dispatcher",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Seneca hub for MinElev stats",
   "license": "MIT",
   "author": {
