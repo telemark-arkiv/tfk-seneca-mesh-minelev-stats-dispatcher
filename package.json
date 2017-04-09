@@ -29,7 +29,7 @@
     "url": "git://github.com/telemark/tfk-seneca-mesh-minelev-stats-dispatcher"
   },
   "devDependencies": {
-    "coveralls": "2.11.16",
+    "coveralls": "2.13.0",
     "tap": "10.3.2",
     "standard": "10.0.1",
     "nsp": "2.6.3"
