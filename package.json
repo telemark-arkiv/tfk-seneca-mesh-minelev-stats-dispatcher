@@ -30,9 +30,9 @@
   },
   "devDependencies": {
     "coveralls": "2.11.16",
+    "tap": "10.3.2"
     "standard": "10.0.1",
-    "nsp": "2.6.3",
-    "tap": "10.2.1"
+    "nsp": "2.6.3"
   },
   "dependencies": {
     "device": "0.3.8",
